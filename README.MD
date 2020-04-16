@@ -30,7 +30,7 @@
 
 项目进行了权限管理，前端体现在不同的角色有不同的系统菜单，下面是完整的菜单：
 
-![main](./img/vhr-home.png 'vhr-home')
+![main](./wiki/img/vhr-home.png 'vhr-home')
 
 不同用户登录上来有差异，如下：
 
