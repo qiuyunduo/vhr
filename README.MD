@@ -30,37 +30,37 @@
 
 项目进行了权限管理，前端体现在不同的角色有不同的系统菜单，下面是完整的菜单：
 
-![main](./wiki/img/vhr-home.png 'vhr-home')
+![main](https://raw.githubusercontent.com/wiki/qiuyunduo/vhr/img/vhr-home.png 'vhr-home')
 
 不同用户登录上来有差异，如下：
 
-![main](./img/vhr-otherRole.png 'vhr-otherRole')
+![main](https://raw.githubusercontent.com/wiki/qiuyunduo/vhr/img/vhr-otherRole.png 'vhr-otherRole')
 
 每个用户的角色可由系统管理员进行分配，分配角色页面如下：
 
-![main](./img/vhr-hrMang.png 'vhr-hrMang')
+![main](https://raw.githubusercontent.com/wiki/qiuyunduo/vhr/img/vhr-hrMang.png 'vhr-hrMang')
 
 系统角色对应的资源可由系统管理元分配，为角色分配资源页面如下：
 
-![main](./img/vhr-permissMang.png 'vhr-permission')
+![main](https://raw.githubusercontent.com/wiki/qiuyunduo/vhr/img/vhr-permissMang.png 'vhr-permission')
 
 在线管理员可进行想在线聊天，聊天页面:
 
-![vhr-chat](./img/vhr-chat.png 'vhr-chat')
+![vhr-chat](https://raw.githubusercontent.com/wiki/qiuyunduo/vhr/img/vhr-chat.png 'vhr-chat')
 
 
 
 其他的一些详细页面截图，放在wiki中，点击访问：
 
-1. [员工管理](http://baidu.com "员工管理')
-2. [工资套账](http://baidu.com "工资套账')
-3. [员工账套](http://baidu.com "员工账套')
-4. [部门管理](http://baidu.com "部门管理')
-5. [职位管理](http://baidu.com "职位管理')
-6. [职称管理](http://baidu.com "职称管理')
-7. [权限管理](http://baidu.com "权限管理')
-8. [操作员管理](http://baidu.com "操作员管理')
-9. [在线聊天](http://baidu.com "在线聊天')
+1. [员工管理](https://github.com/qiuyunduo/vhr/wiki/Employee)
+2. [工资套账](./wiki/Employee)
+3. [员工账套](http://baidu.com)
+4. [部门管理](http://baidu.com)
+5. [职位管理](http://baidu.com)
+6. [职称管理](http://baidu.com)
+7. [权限管理](http://baidu.com)
+8. [操作员管理](http://baidu.com)
+9. [在线聊天](http://baidu.com)
 
 ### 总结
 
@@ -69,6 +69,3 @@
 ### 参考
 
 江南一点雨（项目原作者）: [https://github.com/lenve/vhr](https://github.com/lenve/vhr "微人事项目")
-
-
-
