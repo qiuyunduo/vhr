@@ -52,15 +52,15 @@
 
 其他的一些详细页面截图，放在wiki中，点击访问：
 
-1. [员工管理](https://github.com/qiuyunduo/vhr/wiki/Employee)
-2. [工资套账](./wiki/Employee)
-3. [员工账套](http://baidu.com)
-4. [部门管理](http://baidu.com)
-5. [职位管理](http://baidu.com)
-6. [职称管理](http://baidu.com)
-7. [权限管理](http://baidu.com)
-8. [操作员管理](http://baidu.com)
-9. [在线聊天](http://baidu.com)
+1. [员工管理](https://github.com/qiuyunduo/vhr/wiki/Employee "员工管理")
+2. [工资套账](https://github.com/qiuyunduo/vhr/wiki/Salary "工资套账")
+3. [员工套账](https://github.com/qiuyunduo/vhr/wiki/EmpSalary "员工套账")
+4. [部门管理](https://github.com/qiuyunduo/vhr/wiki/DepMang "部门管理")
+5. [职位管理](https://github.com/qiuyunduo/vhr/wiki/PosMang "职位管理")
+6. [职称管理](https://github.com/qiuyunduo/vhr/wiki/JobLevelMang "职称管理")
+7. [权限管理](https://github.com/qiuyunduo/vhr/wiki/PermissMang "权限管理")
+8. [操作员管理](https://github.com/qiuyunduo/vhr/wiki/HrMang "操作员管理")
+9. [在线聊天](https://github.com/qiuyunduo/vhr/wiki/Chat "在线聊天")
 
 ### 总结
 
